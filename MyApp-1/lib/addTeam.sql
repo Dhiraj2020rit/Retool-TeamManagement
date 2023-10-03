@@ -1,0 +1,1 @@
+INSERT INTO Team (id ,first_name ,last_name ,email ,number ,avathar ,oncall ,shift_start ,shift_end ,incident) VALUES({{numberInput2.value}},{{textInput2.value}},{{textInput3.value}},{{email1.value}},{{textInput4.value}},{{textInput4.value}},{{checkbox1.value}},{{date1.value}},{{date2.value}}, {{multiselect1.value}});

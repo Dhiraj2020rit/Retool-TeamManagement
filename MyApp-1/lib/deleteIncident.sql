@@ -1,0 +1,1 @@
+DELETE FROM incident WHERE id = {{table1.selectedRow.id}}

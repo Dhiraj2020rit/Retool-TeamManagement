@@ -1,0 +1,1 @@
+INSERT INTO Incident (id,urgency,triggered,acknowledgement,resolved,description,assigned_to,created_date) VALUES({{numberInput1.value}},{{select1.value}},{{switch1.value}},{{switch2.value}},{{switch3.value}},{{textInput1.value}},{{select2.value}},{{new Date()}});
